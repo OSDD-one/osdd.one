@@ -1,0 +1,31 @@
+baseURL = 'http://ossd.one/'
+languageCode = 'en-us'
+title = 'OSDD-1'
+theme = 'osdd'
+
+[menu]
+  [[menu.main]]
+    name = "An Overview"
+    weight = 1
+    identifier = "overview"
+    url = "/"
+  [[menu.main]]
+    name = "DID/OSDD as a Spectrum"
+    weight = 2
+    identifier = "spectrum"
+    url = "/spectrum/"
+  [[menu.main]]
+    name = "What is an Alter"
+    weight = 3
+    identifier = "alter"
+    url = "/alter/"
+  [[menu.main]]
+    name = "Medical Literature / References"
+    weight = 4
+    identifier = "medlit"
+    url = "/medlit/"
+  [[menu.main]]
+    name = "About this Site"
+    weight = 5
+    identifier = "about"
+    url = "/about/"
