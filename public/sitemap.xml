@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ossd.one/about/</loc>
+    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
+  </url><url>
+    <loc>http://ossd.one/spectrum/</loc>
+    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
+  </url><url>
+    <loc>http://ossd.one/alter/</loc>
+    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
+  </url><url>
+    <loc>http://ossd.one/medlit/</loc>
+    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
+  </url><url>
+    <loc>http://ossd.one/</loc>
+    <lastmod>2021-11-03T11:26:57+08:00</lastmod>
+  </url><url>
+    <loc>http://ossd.one/categories/</loc>
+  </url><url>
+    <loc>http://ossd.one/tags/</loc>
+  </url>
+</urlset>
