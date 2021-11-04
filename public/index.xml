@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSDD-1</title>
+    <link>https://osdd.one/</link>
+    <description>Recent content on OSDD-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://osdd.one/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An overview of OSDD-1</title>
+      <link>https://osdd.one/</link>
+      <pubDate>Wed, 03 Nov 2021 11:26:57 +0800</pubDate>
+      
+      <guid>https://osdd.one/</guid>
+      <description>This website is dedicated to providing information and resources surrounding the topic of Other Specified Dissociative Disorder 1. (OSDD-1) The DSM-V defines dissociative disorders as being &amp;ldquo;characterized by a disruption of and/or discontinuity in the normal integration of consciousness, memory, identity, emotion, perception, body representation, motor control, and behavior&amp;rdquo;.
+The diagnosis of OSDD-1 is made when a patient is experiencing chronic and recurrent syndromes of mixed dissociative symptoms, that do not fully meet the criteria of Dissociative Identity Disorder (DID).</description>
+    </item>
+    
+  </channel>
+</rss>
