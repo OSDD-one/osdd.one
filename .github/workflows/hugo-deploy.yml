@@ -28,7 +28,7 @@ jobs:
         release_branch: 'release'
         # submodule_release_branch: 'subbed' <<only provide if you are publishing to directory with git submodule>>
         # full_rebuild: true
-        hugo_publish_directory: 'public'   <<publish to another directory if needed>>
+        hugo_publish_directory: 'public'
         # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
         commit_message: "Automated push"
         # test_mode: true <<enable to run a few verification tests before your first live run>>
