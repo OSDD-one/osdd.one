@@ -1,5 +1,4 @@
-name: Hugo Deploy
-on:[push]
+on: [push]
 jobs:
   build_and_deploy_hugo_site:
     runs-on: ubuntu-latest
