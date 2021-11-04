@@ -1,7 +1,10 @@
-baseURL = 'http://ossd.one/'
+baseURL = 'https://osdd.one/'
 languageCode = 'en-us'
 title = 'OSDD-1'
 theme = 'osdd'
+
+[params]
+	googleAnalytics = 'G-PELQH44XC1'
 
 [menu]
   [[menu.main]]
