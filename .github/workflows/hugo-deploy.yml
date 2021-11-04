@@ -1,43 +1,42 @@
 on:[push]
+  jobs:
+    build_and_deploy_hugo_site:
+      runs-on: ubuntu-latest
+      name: Build and deploy Hugo site
 
-jobs:
-  build_and_deploy_hugo_site:
-    runs-on: ubuntu-latest
-    name: Build and deploy Hugo site
-
-    steps:
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.88.1'
+      steps:
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.88.1'
     
-    - name: Checkout repo on source_branch
-      uses: actions/checkout@v2
-      with:
-        submodules: 'recursive'
-        # <<recommended if project uses git submodules for any purpose>>
-        # <<required if deploying to git submodule directory>>
-        token: ${{ secrets.MY_SECRET }}   # <<if needed for private repos>>
-        fetch-depth: '0'
-        # <<fetch-depth: '0' currently required until shallow clone problems are solved>>
+      - name: Checkout repo on source_branch
+        uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+          # <<recommended if project uses git submodules for any purpose>>
+          # <<required if deploying to git submodule directory>>
+          token: ${{ secrets.MY_SECRET }}   # <<if needed for private repos>>
+          fetch-depth: '0'
+          # <<fetch-depth: '0' currently required until shallow clone problems are solved>>
         
-    - name: Build site and push to release branch
-      uses: aormsby/hugo-deploy-to-pages@v2
-      id: build_step  # <<for outputs>>
-      with:
-        source_branch: 'master'
-        release_branch: 'release'
-        # submodule_release_branch: 'subbed' <<only provide if you are publishing to directory with git submodule>>
-        # full_rebuild: true
-        hugo_publish_directory: 'public'   <<publish to another directory if needed>>
-        # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
-        commit_message: "Automated push"
-        # test_mode: true <<enable to run a few verification tests before your first live run>>
+      - name: Build site and push to release branch
+        uses: aormsby/hugo-deploy-to-pages@v2
+        id: build_step  # <<for outputs>>
+        with:
+          source_branch: 'master'
+          release_branch: 'release'
+          # submodule_release_branch: 'subbed' <<only provide if you are publishing to directory with git submodule>>
+          # full_rebuild: true
+          hugo_publish_directory: 'public'   <<publish to another directory if needed>>
+          # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
+          commit_message: "Automated push"
+          # test_mode: true <<enable to run a few verification tests before your first live run>>
 
-        # <<lots of other options!>>
+          # <<lots of other options!>>
 
-    - name: Check if new build was made
-      if: steps.build.outputs.was_new_build_created == 'true'
-      run: echo "YAAASSSS new build."
-      if: steps.build.outputs.was_new_build_created == 'false'
-      run: echo "NOOOOOOO new build."
+      - name: Check if new build was made
+        if: steps.build.outputs.was_new_build_created == 'true'
+        run: echo "YAAASSSS new build."
+        if: steps.build.outputs.was_new_build_created == 'false'
+        run: echo "NOOOOOOO new build."
