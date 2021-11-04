@@ -25,7 +25,7 @@ jobs:
       id: build_step  # <<for outputs>>
       with:
         source_branch: 'master'
-        release_branch: 'master'
+        release_branch: 'public'
         # submodule_release_branch: 'subbed' <<only provide if you are publishing to directory with git submodule>>
         full_rebuild: true
         hugo_publish_directory: 'public'
