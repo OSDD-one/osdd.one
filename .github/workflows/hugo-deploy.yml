@@ -26,7 +26,7 @@ jobs:
       with:
         source_branch: 'master'
         release_branch: 'master'
-        submodule_release_branch: 'public' 
+        # submodule_release_branch: 'subbed' <<only provide if you are publishing to directory with git submodule>>
         full_rebuild: false
         hugo_publish_directory: 'public'
         # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
