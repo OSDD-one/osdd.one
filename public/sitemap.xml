@@ -2,22 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://osdd.one/_about/</loc>
-    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
-  </url><url>
-    <loc>https://osdd.one/_spectrum/</loc>
-    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
-  </url><url>
-    <loc>https://osdd.one/_alter/</loc>
-    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
-  </url><url>
-    <loc>https://osdd.one/_medlit/</loc>
-    <lastmod>2021-11-03T12:21:33+08:00</lastmod>
-  </url><url>
     <loc>https://osdd.one/</loc>
     <lastmod>2021-11-03T11:26:57+08:00</lastmod>
   </url><url>
     <loc>https://osdd.one/categories/</loc>
+  </url><url>
+    <loc>https://osdd.one/</loc>
   </url><url>
     <loc>https://osdd.one/tags/</loc>
   </url>
