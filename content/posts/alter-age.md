@@ -1,14 +1,15 @@
 ---
 title: "Mental Age is Ableist"
-date: 2021-11-04T18:44:17+08:00
+date: 2021-11-08
 draft: false
 ---
+CW: Descriptions of ableism and transphobia, use of the R slur in a medical context
 
 Whilst alters in a system may present with different levels of emotional maturity, feel a certain age, or appear younger in one's headspace, this is not a literal age. It is okay for alters to identify with an age however it is important to note that this is not the same as being that age, as they are still physically (both in terms of physical stature and in terms of their neurological structures and pathways) the age of the body, as alter age is primarily conceptual and not literal.
 
-Furthermore, the insistence that alter age is in any way literal plays into, and often people will directly use, the concept of mental age. 
+Furthermore, the insistence that alter age is in any way literal plays into the concept of mental age. Oftentimes people will even directly (or indirectly) reference mental age as their justification in these arguments, not realising the ableist background behind it. 
 
-Mental age originates from the twentieth century, and was used as a sort of early form of IQ test labelling to determine one's level of mental "r*tardation" , which was then used to exclude them from greater society. 
+Mental age originates from the twentieth century, and was used as a sort of early form of IQ test labelling to determine one's level of mental "retardation" , which was then used to exclude them from greater society. 
 It was believed that one's mental age was a semifixed trait, that whilst it may progress up with treatment over time that if your mental age didn't align with your physical age that it would likely remain that way. That in essence you would always "mentally" be seen as a child
 
 The method(s) of measuring mental age are highly subjective and ultimately the label itself has no purpose other than to disempower those it's used upon. Denying authority and agency based on one's performance on what is often essentially a collection of complex puzzles.
