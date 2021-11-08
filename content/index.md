@@ -1,8 +1,8 @@
 ---
 title: "An overview of OSDD-1"
 date: 2021-11-03T11:26:57+08:00
+type: single
 ---
-
 This website is dedicated to providing information and resources surrounding the topic of Other Specified Dissociative Disorder 1. (OSDD-1)
 The DSM-V defines dissociative disorders as being "characterized by a disruption of and/or discontinuity in the normal integration of consciousness, memory, identity, emotion, perception, body representation, motor control, and behavior".
 

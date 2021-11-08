@@ -32,3 +32,8 @@ theme = 'osdd'
     weight = 5
     identifier = "about"
     url = "/about/"
+  [[menu.main]]
+    name = "Blog Posts"
+    weight = 6
+    identifier = "post"
+    url = "/posts/"
