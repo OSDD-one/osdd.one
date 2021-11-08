@@ -1,57 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>An overview of OSDD-1 on OSDD-1</title>
+    <title>OSDD-1</title>
     <link>https://osdd.one/</link>
-    <description>Recent content in An overview of OSDD-1 on OSDD-1</description>
+    <description>Recent content on OSDD-1</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 11:26:57 +0800</lastBuildDate><atom:link href="https://osdd.one/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://osdd.one/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mental Age is Ableist</title>
-      <link>https://osdd.one/posts/alter-age/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <title>An overview of OSDD-1</title>
+      <link>https://osdd.one/</link>
+      <pubDate>Wed, 03 Nov 2021 11:26:57 +0800</pubDate>
       
-      <guid>https://osdd.one/posts/alter-age/</guid>
-      <description>CW: Descriptions of ableism and transphobia, use of the R slur in a medical context
-Whilst alters in a system may present with different levels of emotional maturity, feel a certain age, or appear younger in one&amp;rsquo;s headspace, this is not a literal age. It is okay for alters to identify with an age however it is important to note that this is not the same as being that age, as they are still physically (both in terms of physical stature and in terms of their neurological structures and pathways) the age of the body, as alter age is primarily conceptual and not literal.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://osdd.one/about/</link>
-      <pubDate>Wed, 03 Nov 2021 12:21:33 +0800</pubDate>
-      
-      <guid>https://osdd.one/about/</guid>
-      <description>This is a community contributed resource regarding Other Specified Dissociative Disorder that has been built using the Hugo framework.
-The source is available to be contributed to on GitHub</description>
-    </item>
-    
-    <item>
-      <title>DID/OSDD as a Spectrum</title>
-      <link>https://osdd.one/spectrum/</link>
-      <pubDate>Wed, 03 Nov 2021 12:21:33 +0800</pubDate>
-      
-      <guid>https://osdd.one/spectrum/</guid>
-      <description>Whilst DID and OSDD-1 are not presently classified as spectrum disorders, as they exist as separate diagnoses, the presentation of dissociative symptoms related to the diagnoses could be visualised as a spectrum of different symptoms ranging from &amp;ldquo;normal&amp;rdquo; experiences to sub-clinical experiences to clinical experiences.The Multidimensional Inventory of Dissociation (MID) is one of the more accessible comprehensive measurements of dissociative symptoms, it consists of 218 questions covering multiple scales pertaining mostly to dissociative and post traumatic experiences, the answers are self reported however the administering person may make adjustments to scoring where they see fit.</description>
-    </item>
-    
-    <item>
-      <title>OSDD-1 - Alters</title>
-      <link>https://osdd.one/alter/</link>
-      <pubDate>Wed, 03 Nov 2021 12:21:33 +0800</pubDate>
-      
-      <guid>https://osdd.one/alter/</guid>
-      <description>What is an Alter? &amp;ldquo;Alter&amp;rdquo; is a term given to the alternate personality states experienced in DID/OSDD-1. These can vary in distinction from indistinct fragments to full-blown distinct identities. Whilst historically alters have sometimes been referred to as being multiple personalities, it&amp;rsquo;s now generally considered that they are dissociative parts of a single personality and are seen as divided psycho-biological systems.Other terms that have been used to refer to these dissociative parts include (dissociative) self-states, ego states, (dissociative) identity states, (dissociative) selves, (dissociative) identities, (dissociative) parts, (dissociative) personality states, and, colloquially, headmates.</description>
-    </item>
-    
-    <item>
-      <title>References</title>
-      <link>https://osdd.one/medlit/</link>
-      <pubDate>Wed, 03 Nov 2021 12:21:33 +0800</pubDate>
-      
-      <guid>https://osdd.one/medlit/</guid>
-      <description>Çıtak, Serhat. (2014). An outpatient clinical study of dissociative disorder not otherwise specified. Spiegel, David &amp;amp; Loewenstein, Richard &amp;amp; Lewis-Fernández, Roberto &amp;amp; Sar, Vedat &amp;amp; Simeon, Daphne &amp;amp; Vermetten, Eric &amp;amp; Cardeña, Etzel &amp;amp; Dell, Paul. (2011). Dissociative disorders in DSM-V. Depression and anxiety. 28. E17-45. 10.1002/da.20923. Coons, Philip. (1992). Dissociative disorder not otherwise specifted: A clinical investigation of 50 cases with suggestions for typology and treatment. Dissociation. 5. Sar, Vedat.</description>
+      <guid>https://osdd.one/</guid>
+      <description>This website is dedicated to providing information and resources surrounding the topic of Other Specified Dissociative Disorder 1. (OSDD-1) The DSM-V defines dissociative disorders as being &amp;ldquo;characterized by a disruption of and/or discontinuity in the normal integration of consciousness, memory, identity, emotion, perception, body representation, motor control, and behavior&amp;rdquo;.
+The diagnosis of OSDD-1 is made when a patient is experiencing chronic and recurrent syndromes of mixed dissociative symptoms, that do not fully meet the criteria of Dissociative Identity Disorder (DID).</description>
     </item>
     
   </channel>
