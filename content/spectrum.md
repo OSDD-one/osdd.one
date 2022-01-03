@@ -1,6 +1,6 @@
 +++
 title = "DID/OSDD as a Spectrum"
-date = "2021-11-03T12:21:33+08:00"
+date = "2021-11-17"
 +++
 
 Whilst DID and OSDD-1 are not presently classified as spectrum disorders, as they exist as separate diagnoses, the presentation of dissociative symptoms related to the diagnoses could be visualised as a spectrum of different symptoms ranging from "normal" experiences to sub-clinical experiences to clinical experiences.<br><br>
@@ -30,5 +30,12 @@ Sandra L. Paulsen, working off of J.G. Watkins' prior Ego-State/Dissociative wor
 
 ![A continuum of dissociative disorders, starting with normal roles and state dependent learning, followed by conflicted ego states and ambivalence, and then ego state disorders and PTSD, and then complex PTSD and DDNOS and DESNOS and lastly ending with DID and complex DID](/continuum.png)
 
+A similar but more detailed continuum, is that of the BASK model of dissociation, pictured below, where Atypical Dissociative Disorder and Atypically Multiple Personality Disorder is representative of OSDD-1a/b and Multiple Personality Disorder is representative of DID. 
+![The Continuum of Dissociation from the BASK model of dissociation, displaying a continuum from normal to dissociative episode to dissociative disorder to PTSD to atypical dissociative disorder to atypical multiple personality disorder to multiple personality disorder. It also includes a lower section of organic disorders underneath.](/baskcontin.png)
+
 Another perspective one can take for looking at dissociation in DID/OSDD as a spectrum, would be taking the two differing criteria within OSDD-1a and OSDD-1b (The less than marked discontinuities in sense of self and agency against the lack of narrative amnesia) and plotting them against each other, which would likely vaguely resemble the below chart:
 ![A chart showing a scale between normal levels of dissociation and DID levels of dissociation, with one axis representing amnesia and the other representing discontinuity in sense of self](/chart.png)
+
+
+
+
