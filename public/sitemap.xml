@@ -2,13 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://osdd.one/</loc>
+    <loc>http://osdd.one/</loc>
+    <lastmod>2022-09-17T22:34:21+08:00</lastmod>
+  </url><url>
+    <loc>http://osdd.one/alter/anpep/</loc>
+    <lastmod>2022-09-17T17:16:00+08:00</lastmod>
+  </url><url>
+    <loc>http://osdd.one/alter/</loc>
+    <lastmod>2022-09-17T16:43:55+08:00</lastmod>
+  </url><url>
+    <loc>http://osdd.one/alter/persecutors/</loc>
+    <lastmod>2022-09-17T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://osdd.one/spectrum/</loc>
+    <lastmod>2021-11-17T12:21:33+08:00</lastmod>
+  </url><url>
+    <loc>http://osdd.one/overview/</loc>
     <lastmod>2021-11-03T11:26:57+08:00</lastmod>
   </url><url>
-    <loc>https://osdd.one/categories/</loc>
+    <loc>http://osdd.one/categories/</loc>
   </url><url>
-    <loc>https://osdd.one/</loc>
-  </url><url>
-    <loc>https://osdd.one/tags/</loc>
+    <loc>http://osdd.one/tags/</loc>
   </url>
 </urlset>

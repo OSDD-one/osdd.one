@@ -1,39 +1,9 @@
-baseURL = 'https://osdd.one/'
+baseURL = 'http://osdd.one/'
 languageCode = 'en-us'
 title = 'OSDD-1'
-theme = 'osdd'
+theme = "osdd"
+sectionPagesMenu = "main"
+
 
 [params]
 	googleAnalytics = 'G-PELQH44XC1'
-
-[menu]
-  [[menu.main]]
-    name = "An Overview"
-    weight = 1
-    identifier = "overview"
-    url = "/"
-  [[menu.main]]
-    name = "DID/OSDD as a Spectrum"
-    weight = 2
-    identifier = "spectrum"
-    url = "/spectrum/"
-  [[menu.main]]
-    name = "What is an Alter"
-    weight = 3
-    identifier = "alter"
-    url = "/alter/"
-  [[menu.main]]
-    name = "Medical Literature / References"
-    weight = 4
-    identifier = "medlit"
-    url = "/medlit/"
-  [[menu.main]]
-    name = "About this Site"
-    weight = 5
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Blog Posts"
-    weight = 6
-    identifier = "post"
-    url = "/posts/"

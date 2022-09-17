@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSDD-1</title>
-    <link>http://osdd.one/</link>
-    <description>Recent content on OSDD-1</description>
+    <title>Alters on OSDD-1</title>
+    <link>http://osdd.one/alter/</link>
+    <description>Recent content in Alters on OSDD-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Sep 2022 22:34:21 +0800</lastBuildDate><atom:link href="http://osdd.one/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Sep 2022 16:43:55 +0800</lastBuildDate><atom:link href="http://osdd.one/alter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apparently Normal Parts and Emotional Parts</title>
       <link>http://osdd.one/alter/anpep/</link>

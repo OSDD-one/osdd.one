@@ -1,5 +1,5 @@
 ---
-title: "An overview of OSDD-1"
+title: "Overview"
 date: 2021-11-03T11:26:57+08:00
 ---
 
@@ -20,7 +20,7 @@ For the sake of simplicity, these can roughly be simplified down to the followin
 
 - Disruption of identity with a marked discontinuity in sense of self and agency, that is accompanied with alterations in affect.
 This can be further simplified to being the presence of distinct alternate personality states, known as "alters".
-- The presense of amnesia
+- The presence of amnesia
 - The symptoms cause distress or impairment
 - The disturbance is not related to cultural or religious practices
 - The symptoms are not better explained by something else
