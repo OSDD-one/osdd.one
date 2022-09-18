@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Sep 2022 16:43:55 +0800</lastBuildDate><atom:link href="https://osdd.one/alter/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Persecutors</title>
+      <link>https://osdd.one/alter/persecutors/</link>
+      <pubDate>Sun, 18 Sep 2022 14:30:00 +0800</pubDate>
+      
+      <guid>https://osdd.one/alter/persecutors/</guid>
+      <description>Many individuals with DID/OSDD-1 will have alters that demonstrate hostile or seemingly malicious behaviours towards others, whether it be externally to other people or internally towards other alters. These alters are often referred to as Persecutory Alters or Persecutors.
+Persecutors are sometimes seen as evil or malignant due to the nature of their behaviours, but it is important to recognise that this is not the case and they are in fact still part of the brain to which they belong.</description>
+    </item>
+    
+    <item>
       <title>Formation of Alters</title>
       <link>https://osdd.one/alter/formation/</link>
       <pubDate>Sun, 18 Sep 2022 03:07:40 +0800</pubDate>
@@ -25,16 +35,6 @@ The second way is what is discussed as auto reparation, where a copy of a part a
       <guid>https://osdd.one/alter/anpep/</guid>
       <description>In the context of trauma related structural dissociation, there are the Apparently Normal Parts of the personality (ANP) and the Emotional Parts of the personality (EP).
 ANP are the parts that may appear normal, at least to some extent, as a result of negative dissociative symptoms. They are dissociated from the traumas that have been experienced and even after being made aware of a trauma, and overcoming any denial, will struggle to perceive it from a first person perspective.</description>
-    </item>
-    
-    <item>
-      <title>Persecutors</title>
-      <link>https://osdd.one/alter/persecutors/</link>
-      <pubDate>Sat, 17 Sep 2022 16:30:00 +0800</pubDate>
-      
-      <guid>https://osdd.one/alter/persecutors/</guid>
-      <description>Many individuals with DID/OSDD-1 will have alters that demonstrate hostile or seemingly malicious behaviours towards others, whether it be externally to other people or internally towards other alters. These alters are often referred to as Persecutory Alters or Persecutors.
-Persecutors are sometimes seen as evil or malignant due to the nature of their behaviours, but it is important to recognise that this is not the case and they are in fact still part of the brain to which they belong.</description>
     </item>
     
   </channel>
