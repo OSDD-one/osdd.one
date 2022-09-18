@@ -35,7 +35,7 @@ jobs:
 
         # <<lots of other options!>>
 
-    - name: Upload ftp
+    - name: Upload to ftp
       uses: sebastianpopp/ftp-action@releases/v2
       with:
         host: ${{ secrets.FTP_SERVER }}
