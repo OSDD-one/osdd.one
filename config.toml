@@ -1,4 +1,4 @@
-baseURL = 'http://osdd.one/'
+baseURL = 'https://osdd.one/'
 languageCode = 'en-us'
 title = 'OSDD-1'
 theme = "osdd"
