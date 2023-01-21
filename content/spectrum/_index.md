@@ -29,9 +29,17 @@ Sandra L. Paulsen, working off of J.G. Watkins' prior Ego-State/Dissociative wor
 
 ![A continuum of dissociative disorders, starting with normal roles and state dependent learning, followed by conflicted ego states and ambivalence, and then ego state disorders and PTSD, and then complex PTSD and DDNOS and DESNOS and lastly ending with DID and complex DID](/spectrum/continuum.png)
 
+Lynda Shirar's book Dissociative Children: Bridging the Inner and Outer Worlds presents a slightly more detailed continuum, displayed below.
+
+![The continuum of dissociation by Lynda Shirar, with multiple points displayed along a horizontal line from normal dissociation, to disorders with dissociative symptoms, to dissociative disorders. There is a partial overlap of the last two categories. Under normal dissociation is Fantasy, Daydreaming, Automatic behaviours, Highway hypnosis and, as a separate item Denial. Disorders with Dissociative Symptoms include Acute stress, Post-traumatic stress disorder, Panic disorder, Obsessive-compulsive disorder, Eating disorders, and Depression, the items on the continuum's line are listed in the following order: Repression, Depresonalization, Post-traumatic play, Post-traumatic reenactment, Compulsive  behaviors, Hyperarousal, Flashbacks, Intrusive thoughts/images, Psychic numbing, Dissociative amnesia, fugues. The Dissociative Disorders section also includes Dissociative amnesia, and fugues, but also continues to list Dissociative Disorder not otherwise specified (DDNOS) and then Dissociative identity disorder (DID)](/spectrum/lyndacontin.png)
+
+
 A similar but more detailed continuum, is that of the BASK model of dissociation, pictured below, where Atypical Dissociative Disorder and Atypically Multiple Personality Disorder is representative of OSDD-1a/b and Multiple Personality Disorder is representative of DID. 
 
 ![The Continuum of Dissociation from the BASK model of dissociation, displaying a continuum from normal to dissociative episode to dissociative disorder to PTSD to atypical dissociative disorder to atypical multiple personality disorder to multiple personality disorder. It also includes a lower section of organic disorders underneath.](/spectrum/baskcontin.png)
+
+
+
 
 Another perspective one can take for looking at dissociation in DID/OSDD as a spectrum, would be taking the two differing criteria within OSDD-1a and OSDD-1b (The less than marked discontinuities in sense of self and agency against the lack of narrative amnesia) and plotting them against each other, which would likely vaguely resemble the below chart:
 
