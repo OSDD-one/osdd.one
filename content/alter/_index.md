@@ -2,6 +2,9 @@
 title: "Alters"
 date: 2023-01-28T16:43:55+08:00
 draft: false
+authors:
+- Ashton
+- Noire
 ---
 
 "Alter" is a term often given to the *alter*nate personality states experienced in DID and OSDD-1. These can vary in distinction from indistinct fragments to full-blown distinct identities. 
