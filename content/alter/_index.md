@@ -13,4 +13,4 @@ Historically, alters have been referred to as multiple personalities, it's now g
 
 Other terms that have been used to refer to these dissociative parts include (dissociative) self-states, ego states, (dissociative) identity states, (dissociative) selves, (dissociative) identities, (dissociative) parts, and (dissociative) personality states.
 
-The online dissociative community has additionally adopted the term "headmates" to refer to these states in addition to those listed above.
+The online dissociative community has also adopted the term "headmates" to refer to these states in addition to those listed above.
