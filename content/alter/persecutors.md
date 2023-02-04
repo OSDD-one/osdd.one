@@ -1,6 +1,9 @@
 ---
 title: "Persecutors"
 date: 2022-09-18T14:30:00+08:00
+menu: 
+  main:
+    parent: "Alters"
 draft: false
 ---
 Many individuals with DID/OSDD-1 will have alters that demonstrate hostile or seemingly malicious behaviours towards others, whether it be externally to other people or internally towards other alters. These alters are often referred to as Persecutory Alters or Persecutors.

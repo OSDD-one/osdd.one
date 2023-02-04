@@ -1,6 +1,9 @@
 ---
 title: "Apparently Normal Parts and Emotional Parts"
 date: 2022-09-17T17:16:00+08:00
+menu: 
+  main:
+    parent: "Alters"
 draft: false
 ---
 In the context of trauma related structural dissociation, there are the Apparently Normal Parts of the personality (ANP) and the Emotional Parts of the personality (EP). 

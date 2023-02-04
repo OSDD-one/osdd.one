@@ -1,6 +1,9 @@
 ---
 title: "Formation of Alters"
 date: 2022-09-18T03:07:40+08:00
+menu: 
+  main:
+    parent: "Alters"
 draft: false
 ---
 

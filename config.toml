@@ -2,7 +2,6 @@ baseURL = 'https://osdd.one/'
 languageCode = 'en-us'
 title = 'OSDD-1'
 theme = "osdd"
-sectionPagesMenu = "main"
 
 
 [params]

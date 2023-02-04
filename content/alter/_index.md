@@ -2,6 +2,9 @@
 title: "Alters"
 date: 2023-01-28T16:43:55+08:00
 draft: false
+menu:
+  main:
+    weight: 2
 authors:
 - Ashton
 - Noire

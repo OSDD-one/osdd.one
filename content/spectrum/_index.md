@@ -1,6 +1,9 @@
 ---
 title: "Spectrum"
 date: "2021-11-17T12:21:33+08:00"
+menu:
+  main:
+    weight: 1
 ---
 Whilst DID and OSDD-1 are not presently classified as spectrum disorders, as they exist as separate diagnoses, the presentation of dissociative symptoms related to the diagnoses could be visualised as a spectrum of different symptoms ranging from "normal" experiences to sub-clinical experiences to clinical experiences.
 
