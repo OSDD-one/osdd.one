@@ -59,5 +59,6 @@ img {
     width: 500px;
 }
 
-
-    
+ul.sub-menu {
+    list-style-type: none;
+}
