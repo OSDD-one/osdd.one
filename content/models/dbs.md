@@ -1,6 +1,8 @@
 ---
-title: "Discrete Behavioural States Model of Dissociation"
-date: 2022-09-17T19:30:33+08:00
+title: "Discrete Behavioral States Model of Dissociation"
+date: 2023-03-29
 draft: true
+authors:
+- Ashton
 ---
-
+Frank Putnam devloped the Discrete Behavioral State Model of Dissociation
